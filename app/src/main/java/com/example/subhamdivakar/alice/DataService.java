@@ -15,9 +15,6 @@ import static com.example.subhamdivakar.alice.UTILS.SqDB.contact_INFO_TABLE_COLU
 import static com.example.subhamdivakar.alice.UTILS.SqDB.contact_INFO_TABLE_COLUMN_p4;
 import static com.example.subhamdivakar.alice.UTILS.SqDB.contact_INFO_TABLE_COLUMN_p5;
 
-/**
- * Created by Subham Divakar on 3/11/2018.
- */
 
 public class DataService extends Service
 {

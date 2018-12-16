@@ -1,8 +1,5 @@
 package com.example.subhamdivakar.alice;
 
-/**
- * Created by Subham Divakar on 2/23/2018.
- */
 import android.app.AlertDialog;
 import android.app.Service;
 import android.content.Context;

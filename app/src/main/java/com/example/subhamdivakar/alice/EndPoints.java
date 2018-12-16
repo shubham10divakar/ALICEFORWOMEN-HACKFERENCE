@@ -1,8 +1,5 @@
 package com.example.subhamdivakar.alice;
 
-/**
- * Created by Subham Divakar on 3/9/2018.
- */
 
 public class EndPoints {
     public static final String URL_REGISTER_DEVICE = "http://192.168.43.172/FcmExample/RegisterDevice.php";

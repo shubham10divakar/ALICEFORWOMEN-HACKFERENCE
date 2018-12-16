@@ -14,9 +14,6 @@ import java.util.HashMap;
 
 //import static com.example.subhamdivakar.UTILS.Constant.userInfo;
 
-/**
- * Created by Administrator on 7/13/2016.
- */
 public class SqDB extends SQLiteOpenHelper {
 
 

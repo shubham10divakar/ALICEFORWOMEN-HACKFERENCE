@@ -17,9 +17,6 @@ import java.net.URL;
 import java.net.URLEncoder;
 import java.util.HashMap;
 
-/**
- * Created by RS1214250632 on 16-10-2015.
- */
 public class JParserAdv {
     String charset = "UTF-8";
     HttpURLConnection conn;

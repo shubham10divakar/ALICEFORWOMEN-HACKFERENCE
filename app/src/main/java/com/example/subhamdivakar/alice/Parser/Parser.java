@@ -10,9 +10,6 @@ import org.json.JSONObject;
 import java.lang.reflect.Field;
 import java.util.HashMap;
 
-/**
- * Created by Administrator on 7/8/2016.
- */
 public class Parser<T> extends AsyncTask<String, String, JSONObject> {
 
     AsyncListener<T> asyncListener;
